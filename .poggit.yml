@@ -1,6 +1,3 @@
---- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/TaskPro152/Antylogout
 branches:
 - master
-projects:
-  Antylogout:
-    path: ""
+projects: [Antylogout]
